@@ -15,7 +15,7 @@ contract UartToken is ERC20, ERC20Detailed {
     // modify MILLION
     uint256 public constant MILLION = 10**6 * (10 ** uint256(DECIMALS));
     // modify initial token supply
-    uint256 public constant INITIAL_SUPPLY = 250 * MILLION; 
+    uint256 public constant INITIAL_SUPPLY = 32 * (10 ** uint256(DECIMALS)); 
 
     /**
      * @dev Constructor that gives msg.sender all of existing tokens.
