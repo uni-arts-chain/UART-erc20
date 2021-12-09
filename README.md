@@ -21,6 +21,16 @@ Address: 0x5608d5159ab98881bc116ae7761c74ad2ebb0448
 
 https://bscscan.com/token/0x5608d5159ab98881bc116ae7761c74ad2ebb0448
 
+## Bridge
+ETH <> Matic
+
+https://wallet.polygon.technology/bridge/
+
+Matic <> BSC
+
+https://anyswap.exchange/#/bridge
+
+
 ## IPFS
 Metadata of "uarttoken" was published successfully.
 
