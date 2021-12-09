@@ -16,7 +16,7 @@ Address: 0xf244E91A46A9cdd48da295cA5d0B27894f8032B1
 
 https://polygonscan.com/token/0xf244E91A46A9cdd48da295cA5d0B27894f8032B1
 
-## TOKEN INFO（Polygon BSC）
+## TOKEN INFO（BSC）
 Address: 0x5608d5159ab98881bc116ae7761c74ad2ebb0448
 
 https://bscscan.com/token/0x5608d5159ab98881bc116ae7761c74ad2ebb0448
