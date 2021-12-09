@@ -9,7 +9,7 @@
 ## TOKEN INFO（ETH）
 Address: 0x507bde03a87a6aa134d16634545e3d79c11c137d
 
-https://cn.etherscan.com/token/0x507bde03a87a6aa134d16634545e3d79c11c137d
+https://etherscan.io/token/0x507bde03a87a6aa134d16634545e3d79c11c137d
 
 ## TOKEN INFO（Polygon Matic）
 Address: 0xf244E91A46A9cdd48da295cA5d0B27894f8032B1
